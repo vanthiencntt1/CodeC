@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34526.175
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAuto", "WpfAuto\WpfAuto.csproj", "{B1F4F5AB-5648-4CF9-B98C-7DDB68B0B262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1F4F5AB-5648-4CF9-B98C-7DDB68B0B262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F4F5AB-5648-4CF9-B98C-7DDB68B0B262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F4F5AB-5648-4CF9-B98C-7DDB68B0B262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F4F5AB-5648-4CF9-B98C-7DDB68B0B262}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1228D2F5-87E8-4059-B3AB-2EEA02201852}
+	EndGlobalSection
+EndGlobal
